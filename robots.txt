@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://evanthegod.github.io/evan-the-great/sitemap.xml

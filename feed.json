@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "evanthegreat.great-site.net",
+    "description": "",
+    "home_page_url": "https://evanthegod.github.io/evan-the-great",
+    "feed_url": "https://evanthegod.github.io/evan-the-great/feed.json",
+    "user_comment": "",
+    "icon": "https://evanthegod.github.io/evan-the-great/media/website/7b20fb4309805386056d14a5344aed35-2.jpg",
+    "author": {
+        "name": "evan the great"
+    },
+    "items": [
+    ]
+}
